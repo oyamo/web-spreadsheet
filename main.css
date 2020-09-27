@@ -1,0 +1,16 @@
+/* The skin for our App */
+body,html{
+    padding: 0;
+    margin: 0;
+    font-family: monospace;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td, th{
+    border: 1px solid #666262;
+    padding: 0.5rem;
+    text-align: left;
+}
